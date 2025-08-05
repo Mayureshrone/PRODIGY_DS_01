@@ -1,40 +1,43 @@
-__# Prodigy Infotech Data Science Internship - Task 01 #ProdigyInfotech @ProdygyInfotech__ 
+__# Prodigy Infotech Data Science Internship - Task 01__
+__#ProdigyInfotech__
+__@ProdygyInfotech__
+ __Task Overview__
 
-__Task Overview__
+__"Task 01:"__
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
-"Task 01:" Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
-In this task, I visualized the "population of the India" over time using a "bar chart", leveraging World Bank data.
+In this task, I visualized the "population of the __INDIA__" over time using a "bar chart", leveraging World Bank data.
 
-__Visualization Output__
+ __Visualization Output__
 
--"Type": Bar Chart
-"Variable": Population (continuous)
-"Data Source": World Bank
-"Tools Used":
-Python
-Pandas
-Matplotlib
-Google Colab
+-"Type": Bar Chart  
+- "Variable": Population (continuous)  
+- "Data Source": [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL)  
+- "Tools Used":
+  - Python
+  - Pandas
+  - Matplotlib
+  - Google Colab
 
 __Files in Repository__
 
-PRODIGY_DS_01.ipynb – Colab notebook containing the code and plot.
-CSV file contains the data set of all the world population over the years.
-README.md – You're reading it!
+- `PRODIGY_DS_01.ipynb` – Colab notebook containing the code and plot.
+- `README.md` – You're reading it!
+- `API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv` - csv file of dataset contains the countries population over the years.
 
 __How to Run__
 
-Open the notebook in Google Colab.
-Run all cells to:
-Add the CSV file given in code section
-Load the dataset
-Filter for a specific country
-Plot the bar chart
-You can change the chosen_country variable to visualize other countries.
-Contact
+1. Open the notebook in [Google Colab](https://colab.research.google.com/).
+2. Run all cells to:
+   - Load the dataset
+   - Filter for a specific country
+   - Plot the bar chart
+3. You can change the `country_name` variable to visualize other countries.
+   
+__Contact__
 
-__If you have any questions about the project or this task:__
-
-GitHub: __Mayureshrone__
-Internship: __Prodigy Infotech Data Science Internship__
-#ProdigyInfotech @ProdigyInfotech
+If you have any questions about the project or this task:
+- GitHub: [Mayureshrone](https://github.com/Mayureshrone)
+- Internship: Prodigy Infotech Data Science Internship
+- __#ProdigyInfotech__
+- __@ProdygyInfotech__
