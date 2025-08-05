@@ -28,11 +28,12 @@ __Files in Repository__
 __How to Run__
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
-2. Run all cells to:
+2. Insert the csv file given in repository.
+3. Run all cells to:
    - Load the dataset
    - Filter for a specific country
    - Plot the bar chart
-3. You can change the `country_name` variable to visualize other countries.
+4. You can change the `country_name` variable to visualize other countries.
    
 __Contact__
 
